@@ -35,12 +35,4 @@ int main()
    return 0;
 }
 
-int main()
-{
-        Student S1(9,"Anshman"),S2(S1),S3;
-        S1.Display();
-        S2.Display();
-        S3.Display();
-   return 0;
-}
 
